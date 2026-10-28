@@ -1,6 +1,6 @@
 # Cache Proxy Server
 
-A small cache proxy server implementation to complete "Caching Proxy" challenge in https://roadmap.sh/backend/projects
+A small cache proxy server implementation to complete "Caching Proxy" challenge in https://roadmap.sh/projects/caching-server
 
 arguments:
 
